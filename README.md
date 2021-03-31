@@ -8,7 +8,7 @@ Script to send the CLI output of the linux command to the whatsapp contact as a 
 
 - Log in to the Whatsapp web
 - Run the following command to create link with phone number and CLI output as a message.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `var=$(sh whatsapp_message.sh)`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `var=$(sh cmd.sh)`
 
   ![bash](https://user-images.githubusercontent.com/45136716/113188556-d2c7b900-9277-11eb-899f-a7383ab2ac92.png)
 
